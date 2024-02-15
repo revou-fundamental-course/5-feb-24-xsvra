@@ -1,0 +1,42 @@
+.title-section {
+	text-align: center;
+}
+
+p {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 20px;
+}
+
+a {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 15px;
+}
+
+.btn {
+	border-radius: 6px;
+	background-color: rgb(56, 212, 251);
+	margin-top: 8px;
+	padding: 6px 6px;
+}
+
+.btn:hover {
+	background-color: aqua;
+}
+
+.btn:active {
+	background-color: rgb(154, 152, 149);
+}
+
+label {
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: 15px;
+}
+
+.input-field {
+	border-radius: 4px;
+	padding: 8px 8px;
+}
+
+.input-field:focus {
+	border: solid blue;
+}
